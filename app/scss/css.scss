@@ -1,0 +1,27 @@
+//import mixins
+@import "style";
+@import "nav";
+@import "slider";
+@import "app-guide";
+
+@font-face {
+  font-family: 'Poppins', sans-serif;
+  src: local('Poppins Regular'), local('Poppins-Regular'), url('../fonts/Poppinsregular.woff2') format('woff2'), url('../fonts/Poppinsregular.woff') format('woff'), url('../fonts/Poppinsregular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gilroy', sans-serif;
+  src: local('Gilroy ExtraBold'), local('Gilroy-ExtraBold'), url('../fonts/Gilroyextrabold.woff2') format('woff2'), url('../fonts/Gilroyextrabold.woff') format('woff'), url('../fonts/Gilroyextrabold.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+//@font-face {
+//  font-family: 'Roboto-Regular';
+//  src: local('Roboto'), local('Roboto-Regular'), url('../fonts/Roboto.woff2') format('woff2'), url('../fonts/Roboto.woff') format('woff'), url('../fonts/Roboto.ttf') format('truetype');
+//  font-weight: 400;
+//  font-style: normal;
+//}
+
+

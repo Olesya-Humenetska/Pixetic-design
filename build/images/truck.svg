@@ -1,0 +1,8 @@
+<svg width="21" height="17" viewBox="0 0 21 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="truck" opacity="0.5">
+<rect id="Rectangle-path" x="1" y="1" width="12.5" height="10.8333" stroke="#333333" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M13.5 5.16669H16.8333L19.3333 7.66669V11.8334H13.5V5.16669V5.16669Z" stroke="#333333" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Oval" fill-rule="evenodd" clip-rule="evenodd" d="M4.74935 16C5.89994 16 6.83268 15.0672 6.83268 13.9166C6.83268 12.7661 5.89994 11.8333 4.74935 11.8333C3.59876 11.8333 2.66602 12.7661 2.66602 13.9166C2.66602 15.0672 3.59876 16 4.74935 16Z" stroke="#333333" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Oval_2" fill-rule="evenodd" clip-rule="evenodd" d="M15.5833 16C16.7339 16 17.6667 15.0672 17.6667 13.9166C17.6667 12.7661 16.7339 11.8333 15.5833 11.8333C14.4327 11.8333 13.5 12.7661 13.5 13.9166C13.5 15.0672 14.4327 16 15.5833 16Z" stroke="#333333" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>
